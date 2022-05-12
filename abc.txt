@@ -1,4 +1,8 @@
 this is abc1
+<<<<<<< HEAD
 this is abc2
 this is abc3
 this is abc4
+=======
+:
+>>>>>>> parent of 41043db... commit abc2
