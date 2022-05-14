@@ -5,6 +5,7 @@ public static void main(String[] args)
 {
 	System.ou.println("this is AAA file");
 	System.ou.println("this is AAA online");
+	System.ou.println("AAA new offline changes");
 	System.ou.println("this is AAA online online");
 }
 }
