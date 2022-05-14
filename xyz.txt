@@ -2,6 +2,6 @@ class Test
 {
   public void usualChanges()
   {
-  
+    System.out.println("updated online");
   }
 }
