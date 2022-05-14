@@ -5,5 +5,6 @@ class Test
     System.out.println("again doing the stash and pull");
     System.out.println("ramp up updated");
     System.out.println("updated offline through editor");
+    System.out.println("updated offline through editor");
   }
 }
