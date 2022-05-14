@@ -2,6 +2,10 @@ class Test
 {
   public void usualChanges()
   {
+<<<<<<< Updated upstream
     System.out.println("updated online");
+=======
+    System.out.println("updated offline");
+>>>>>>> Stashed changes
   }
 }
