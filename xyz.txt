@@ -1,6 +1,7 @@
-this is xyz file
-this is after stashing 
-doing good so far
-after commit message
-will do the stash
-updated online
+class Test
+{
+  public void usualChanges()
+  {
+  
+  }
+}
