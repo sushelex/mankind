@@ -6,6 +6,5 @@ class Test
     System.out.println("line in between");
     System.out.println("updated offline through editor");
     System.out.println("updated online through editor for multiple files change");
-    	System.ou.println("this is for online changes pulled with AAA.txt");
   }
 }
