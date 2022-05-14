@@ -8,5 +8,7 @@ class Test
     System.out.println("updated online through editor for multiple files change");
     System.ou.println("this is for online changes pulled with AAA.txt");
     System.ou.println("xyz new online changes");
+    System.ou.println("xyz new offline changes1");
+    System.ou.println("xyz new offline changes2");
   }
 }
