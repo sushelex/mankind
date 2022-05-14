@@ -2,6 +2,7 @@ class Test
 {
   public void usualChanges()
   {
-    System.out.println("updated online");
+    System.out.println("again doing the stash and pull");
+    System.out.println("updated offline through editor");
   }
 }
